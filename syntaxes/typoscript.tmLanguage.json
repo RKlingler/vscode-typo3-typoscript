@@ -114,7 +114,7 @@
             "patterns": [
                 {
                     "name": "support.class.cobject.typoscript",
-                    "match": "(CASE|COA|COA_INT|CONTENT|EDITPANEL|FILE|FILES|FLUIDTEMPLATE|HMENU|TMENU|IMAGE|IMG_RESOURCE|LOAD_REGISTER|RECORDS|RESTORE_REGISTER|SVG|TEMPLATE|TEXT|USER|USER_INT|PAGE)\\b(?:\n|$)"
+                    "match": "(CASE|COA|COA_INT|CONTENT|EDITPANEL|EXTBASEPLUGIN|FILE|FILES|FLUIDTEMPLATE|HMENU|TMENU|IMAGE|IMG_RESOURCE|LOAD_REGISTER|RECORDS|RESTORE_REGISTER|SVG|TEMPLATE|TEXT|USER|USER_INT|PAGE|PAGEVIEW)\\b(?:\n|$)"
                 }
             ]
         },
